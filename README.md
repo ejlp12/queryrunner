@@ -7,4 +7,6 @@ Deploy the  `queryrunner.war` in `target` directory into Java web/app server and
 `index2.jsp` is support for listing all available datasource JNDI name in WebLogic Application Server in dropdown list.
 
 
+Screenshot of the application:
+
 ![image](https://cloud.githubusercontent.com/assets/3068071/7337009/c743abbc-ec41-11e4-82ed-362fc1667129.png)
